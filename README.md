@@ -8,11 +8,29 @@ Sketch template resource to accompany the Origin framework.
 
 ## Install
 
+We're going to link the github repo to the local Sketch support folder on your machine.
+
+First, navigate to your local Templates folder, which is probably at the location below if you have a standard install.
+
 ```
-$ do something
+$ cd Library/Application\ Support/com.bohemiancoding.sketch3/Templates
 ```
 
-*Still to populate this*
+Then create a folder in the Templates folder named 'Origin'
+
+```
+$ mkdir Origin
+```
+
+Then clone this repo to that folder
+
+```
+$ git clone git@github.com:craigcwaveformlabs/Origin_Sketch.git
+```
+
+
+
+*Still to fully populate*
 
 
 ## Requirements & Suggestions
