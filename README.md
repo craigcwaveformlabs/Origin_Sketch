@@ -15,28 +15,16 @@ First, navigate to your local Templates folder, which is probably at the locatio
 ```
 $ cd Library/Application\ Support/com.bohemiancoding.sketch3/Templates
 ```
+*You can check the location of the Templates folder by navigating to File > New From Template > Reveal in Finder via the main menu in Sketch*
 
-Then create a folder in the Templates folder named 'Origin'
 
-```
-$ mkdir Origin
-```
-
-Navigate into the new Origin folder
+And then clone the Origin_Sketch repo into a new folder named 'Origin'
 
 ```
-$ cd Origin
+$ git clone git@github.com:craigcwaveformlabs/Origin_Sketch.git Origin
 ```
 
-And then clone this repo to that folder
-
-```
-$ git clone git@github.com:craigcwaveformlabs/Origin_Sketch.git
-```
-
-
-
-*Still to fully populate*
+The Origin template will now be available within the Sketch app, accessed by selecting File > New From Template and navigating to the Origin file.
 
 
 ## Requirements & Suggestions
