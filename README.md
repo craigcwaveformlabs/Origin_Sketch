@@ -22,7 +22,13 @@ Then create a folder in the Templates folder named 'Origin'
 $ mkdir Origin
 ```
 
-Then clone this repo to that folder
+Navigate into the new Origin folder
+
+```
+$ cd Origin
+```
+
+And then clone this repo to that folder
 
 ```
 $ git clone git@github.com:craigcwaveformlabs/Origin_Sketch.git
