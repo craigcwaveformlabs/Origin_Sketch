@@ -16,7 +16,6 @@ First, navigate to your local sketch support folder, which is probably at the lo
 cd Library/Application\ Support/com.bohemiancoding.sketch3
 ```
 
-
 And then clone the Origin_Sketch repo into a new folder named 'Origin'
 
 ```
