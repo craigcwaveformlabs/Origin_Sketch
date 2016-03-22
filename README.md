@@ -13,7 +13,7 @@ We're going to link the github repo to the local Sketch support folder on your m
 First, navigate to your local sketch support folder, which is probably at the location below if you have a standard install.
 
 ```
-cd Library/Application\ Support/com.bohemiancoding.sketch3
+cd ~/Library/Application\ Support/com.bohemiancoding.sketch3
 ```
 
 And then clone the Origin_Sketch repo into a new folder named 'Origin' within the Templates folder.
