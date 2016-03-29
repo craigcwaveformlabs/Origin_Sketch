@@ -25,7 +25,7 @@ git clone git@github.com:craigcwaveformlabs/Origin_Sketch.git Templates/Origin
 The Origin template will now be available within the Sketch app, accessed by selecting File > New From Template and navigating to the Origin file.
 
 
-## Requirements & Suggestions
+## Requirements
 
 
 ##### Sketch
