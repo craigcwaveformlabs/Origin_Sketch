@@ -32,6 +32,9 @@ The Origin template will now be available within the Sketch app, accessed by sel
 
 You'll need [Sketch](https://www.sketchapp.com) as a bare minimum, everything else is a nice add-on to make your life a little easier along the way.
 
+
+## Suggestions
+
 ##### Sketch Toolbox
 
 [Sketch Toolbox](http://sketchtoolbox.com/) plugin manager. A super simple plugin manager for Sketch.
@@ -45,6 +48,13 @@ You'll need [Sketch](https://www.sketchapp.com) as a bare minimum, everything el
 ##### Dynamic Button
 
 [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) allows you to create buttons with fixed paddings no matter what text you add.
+
+##### IconFont
+
+[Icon Font](https://github.com/keremciu/sketch-iconfont) helps you easily insert and manage icons from icon fonts - such as FontAwesome, Ion or Material Design Icons - in your Sketch designs. 
+
+Note: First you'll need to install the font bundle to your local machine, instructions are on the plugin repo or go [directly](https://github.com/keremciu/font-bundles)
+
 
 ##### Sketch Colour Palette
 
