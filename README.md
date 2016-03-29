@@ -53,7 +53,7 @@ You'll need [Sketch](https://www.sketchapp.com) as a bare minimum, everything el
 
 [Icon Font](https://github.com/keremciu/sketch-iconfont) helps you easily insert and manage icons from icon fonts - such as FontAwesome, Ion or Material Design Icons - in your Sketch designs. 
 
-Note: First you'll need to install the font bundle to your local machine, instructions are on the plugin repo or go [directly](https://github.com/keremciu/font-bundles)
+*Note: First you'll need to install the font bundle to your local machine, instructions are on the plugin repo or go [directly](https://github.com/keremciu/font-bundles)*
 
 
 ##### Sketch Colour Palette
