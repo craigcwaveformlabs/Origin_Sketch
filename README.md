@@ -25,12 +25,15 @@ git clone git@github.com:craigcwaveformlabs/Origin_Sketch.git Templates/Origin
 The Origin template will now be available within the Sketch app, accessed by selecting File > New From Template and navigating to the Origin file.
 
 
-## Requirements & Suggestions
+## Requirements
 
 
 ##### Sketch
 
 You'll need [Sketch](https://www.sketchapp.com) as a bare minimum, everything else is a nice add-on to make your life a little easier along the way.
+
+
+## Suggestions
 
 ##### Sketch Toolbox
 
@@ -45,6 +48,17 @@ You'll need [Sketch](https://www.sketchapp.com) as a bare minimum, everything el
 ##### Dynamic Button
 
 [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) allows you to create buttons with fixed paddings no matter what text you add.
+
+##### IconFont
+
+[Icon Font](https://github.com/keremciu/sketch-iconfont) helps you easily insert and manage icons from icon fonts - such as FontAwesome, Ion or Material Design Icons - in your Sketch designs.
+
+*Note: First you'll need to install the font bundle to your local machine, instructions are on the plugin repo or go [directly](https://github.com/keremciu/font-bundles)*
+
+##### CSS Sprite Mixin
+
+[CSS Sprite Mixin](https://github.com/littlebusters/Sketch-CSS-Sprite-Mixin). Generates sprite code mixin for SCSS, SASS and LESS within Sketch.
+
 
 ##### Sketch Colour Palette
 
